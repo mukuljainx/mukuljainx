@@ -12,6 +12,10 @@
 
 **Learning** about scalable web apps and secrets of JavaScript.
 
+**Collaborate**
+
+https://github.com/mukuljainx/Mokku/issues/42
+
 <!--
 **mukuljainx/mukuljainx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
