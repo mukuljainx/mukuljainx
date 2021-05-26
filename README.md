@@ -7,8 +7,8 @@
 - [more](https://mukulja.in/work)
 
 **Curently working on 🔨**
-- Interactive Portfolio (Private🤫 Repo) 
-- Maintianing Mokku (Bugs & Feature requests)
+- Mokku V2 ( Dashboard)
+- Writing Blogs
 
 **Learning** about scalable web apps and secrets of JavaScript.
 
